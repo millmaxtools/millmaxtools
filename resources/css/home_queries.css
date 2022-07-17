@@ -27,6 +27,10 @@
         padding-top: 4%;
     }
     
+    .video {
+        width="1000"; height="563"; 
+    }
+    
 }
 
 
@@ -137,6 +141,10 @@
 
     }
     
+    .video {
+        width: 850px;
+        height: 478px;
+    }
     
     
 }
@@ -213,7 +221,10 @@
         border: 0;
     }
     
-    
+    .video {
+        width: 700px;
+        height: 394px;
+    }
     
 }
 
@@ -343,6 +354,11 @@
     .mobile-nav{
         margin-top: 35px;
         display: inline-block;
+    }
+    
+    .video {
+        width: 500px;
+        height: 281px;
     }
 
 }
@@ -510,6 +526,11 @@
         padding-top: 10px;
         font-size: 18px;
     }
+    
+    .video {
+        width: 380px;
+        height: 214px;
+    }
 
 }
 
@@ -532,6 +553,10 @@
         margin-left: 10px;
     }
     
+    .video {
+        width: 300px;
+        height: 169px;
+    }
         
 
 }
