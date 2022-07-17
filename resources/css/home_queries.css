@@ -1,0 +1,542 @@
+
+
+@media only screen and (max-width: 1200px){
+    
+    .hero-text-box {
+        width: 100%;
+        padding: 0 10%;
+    }
+    
+    .row{
+        padding: 0 3%;
+    }
+    .logo { 
+        width: auto;
+        margin-top: 40px;
+    }
+    
+    .main-nav {
+        margin-top: 100px;
+    }
+    
+    .info{
+        padding-left: 80px;
+    }
+    
+    .footer-left{
+        padding-top: 4%;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1023px){
+    
+    html, header{
+        background-attachment: scroll;
+    }
+    section{
+        padding: 60px 0 0 0;
+    }
+
+    .hero-text-box {
+        width: 100%;
+        padding: 0 5%;
+    }
+    
+    body {
+        font-size: 18px;
+    }
+    
+    
+    .row {
+        padding: 0 3%;
+    }
+    
+    .main-nav {
+        margin-top: 100px;
+    }
+    
+    .info{
+        padding-left: 0px;
+    }
+    
+    .footer-company-name{
+        margin-top: 60px;
+    }
+    
+    .footer-right{
+        padding-left: 5px;
+        padding-top: 20px;
+    }
+    
+    .main-nav li {
+        display: inline-block;
+        margin-left: 9px;
+
+        }
+
+    .info-p{
+        margin-top: -16.5%; 
+
+    }
+
+    .info-ph{
+    /*    position: relative;*/
+        margin-top: -14%; 
+
+    }
+
+    .info-pm{
+    /*    position: relative;*/
+        margin-top: -11%; 
+
+    }
+    
+    .labimg-img{
+        width: 80%;
+    }
+    
+    .cs-h:after{
+    }
+    
+}
+
+@media only screen and (max-width: 1020px){
+    .footer-right{
+        padding-left: 5px;
+        padding-top: 20px;
+    }
+    
+    .fa.fa-map-marker{
+        margin-bottom: 7%;
+    /*    margin-top: -50px;*/
+    }
+    .fa.fa-phone{
+        margin-bottom: 7%;
+    }
+
+    .fa.fa-envelope{
+        font-size: 20px;
+    }
+    
+    .info-p{
+        margin-top: -15%; 
+
+    }
+
+    .info-ph{
+    /*    position: relative;*/
+        margin-top: -13.5%; 
+
+    }
+
+    .info-pm{
+    /*    position: relative;*/
+        margin-top: -8%; 
+
+    }
+    
+    
+    
+}
+
+@media only screen and (max-width: 950px){
+   
+    .prev, .next {
+        top: 40%;
+        font-size: 40px;
+    }
+    
+    .info{
+        padding-left: 0px;
+    }
+    
+    .footer-company-name{
+        margin-top: 60px;
+    }
+    
+    .footer-right{
+        padding-left: 5px;
+        padding-top: 20px;
+    }
+    
+    .main-nav li {
+        display: inline-block;
+        margin-left: 9px;
+
+        }
+
+    .info-p{
+        margin-top: -21.5%; 
+
+    }
+
+    .info-ph{
+    /*    position: relative;*/
+        margin-top: -16%; 
+
+    }
+
+    .info-pm{
+    /*    position: relative;*/
+        margin-top: -11%; 
+
+    }
+    
+    .h2allpro{
+        margin-bottom: 40px;
+    }
+    
+    .main-nav {
+        display: none;
+    }
+        
+    .mobile-nav{
+        margin-top: 85px;
+        display: inline-block;
+    }
+    
+    .main-nav{
+        font-size: 15px;
+        float: left;
+        margin-left: 45px;
+    }
+    
+    .main-nav li{
+        display: block;
+    }
+    
+    .main-nav li a:link,
+    .main-nav li a:visited{
+        display: block;
+        border: 0;
+    }
+    
+    
+    
+}
+
+
+@media only screen and (max-width: 767px){
+    
+    .logo{
+        height: 100px;
+    }
+    
+    section{
+        padding: 0 0 0 0;
+    }
+
+    .hero-text-box {
+        width: 100%;
+        padding: 0 5%;
+        font-size: 15px;
+    }
+    
+    .row{
+        padding: 0 8%
+    }
+    
+    .contact-form{
+        width: 100%;
+    }
+    
+    .submit-btn{
+        margin-left: 30%;
+    }
+    
+    body {
+        font-size: 18px;
+    }
+    
+    .about-us{
+        margin-bottom: 40px;
+    }
+    
+    .contact-us{
+        padding-top: 60px;
+        padding-bottom: 60PX;
+    }
+    
+    
+    .cs-h{
+        font-size: 180%;
+    }
+    
+    .cs-h:after{
+        width: 55%;
+    }
+    
+    .footer-left{
+        display: none;
+    }
+    
+    .footer-right{
+        width: 100%;
+        padding: 0;
+        padding-left: 4%
+    }
+    
+    footer {
+        padding: 30px 10px;
+    }
+    
+    .info-p{
+        margin-top: -16%; 
+
+    }
+
+    .info-ph{
+    /*    position: relative;*/
+        margin-top: -14%; 
+
+    }
+
+    .info-pm{
+    /*    position: relative;*/
+        margin-top: -9%; 
+
+    }
+    
+    .styled-table{
+        font-size: 65%;
+        min-width: auto;
+    }
+    
+    .styled-table th,
+    .styled-table td {
+        padding: 3px 3px;
+    }
+    
+    h2{
+        font-size: 130%;
+        padding-top: 40px;
+    }
+    
+    h3 {
+        font-size: 110%;
+    }
+    
+    .solid-cad img {
+        width: 100%;
+        height: auto;
+    }
+
+    .cond{
+        margin-top: -4%;
+        padding-left: 0;
+        font-size: 70%
+    }
+
+    .len{
+        padding-top: 6%;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 120%;
+    }
+    
+    .procedure{
+        padding: 25px 0 30px 0;
+    }
+    
+    .mobile-nav{
+        margin-top: 35px;
+        display: inline-block;
+    }
+
+}
+
+
+@media only screen and (max-width: 480px){
+
+    .logo{
+        height: 100px;
+        margin-top: 0;
+        margin-left: -5%;
+    }
+    
+
+    .hero-text-box {
+        width: 100%;
+        padding: 0 8%;
+        font-size: 12px;
+    }
+    
+    .butn{
+        font-size: 13px;
+        padding: 8px 10px;
+    }
+    
+    .btn-as:link,
+    .btn-as:visited {
+        margin-left: 10px;
+
+    }
+    
+    .row{
+        padding: 2% 10%;
+    }
+    
+    .about-us{
+        font-size: 15px;
+    }
+    
+    .prev, .next {
+        top: 68.5%;
+        margin-left:10px;
+        margin-right:10px;
+        font-size: 25px;
+        
+    }
+    
+    .numbertext {
+        display: none;
+    }
+    
+    .modal-content {
+        padding-top: 200px;
+        width: 100%;
+    }
+    
+    .cs-h{
+        font-size: 25px;
+        padding-bottom: 0;
+    }
+    
+    .cs-h:after{
+        width: 60%;
+    }
+    
+    .h2allpro, .h2specs{
+        margin-bottom: 0px;    
+    }
+    
+    .box-content{
+        margin-bottom: 20px;
+    }   
+
+    .boxn{
+        margin-bottom: 40px;
+    }
+    
+    .box2{
+        margin-top: 0px;
+    }
+    
+    .prod-img-pow{
+        width: 60%;   
+    }
+    
+    .abt-us-head:after{
+        width: 31%;
+    }
+    
+    .contact-us{
+        padding: 40px 0 30px 0;
+    }
+    
+    .cform{
+        padding: 10px 0;
+    }
+    
+    .chead{
+        padding-top: 0;
+    }
+    
+    .submit-btn{
+        margin-left: 36%;
+    }
+    
+    label{
+        display: none;
+    }
+    
+    .footer-left,
+    .info-ph,
+    .info-pm,
+    .info-p{
+        display: none;
+    }
+    
+    .fa{
+        display: inline-block;
+        text-align: center;
+        vertical-align: top;
+        float: left;
+        padding-left: 16%
+    }
+    
+    .footerpad{
+        padding:0;
+    }
+    footer{
+        padding-top: 10px;
+        padding-bottom: 5px;
+        padding-left: 0;
+    }
+    
+    .styled-table{
+        
+        font-size: 10.5px;
+    }
+    
+    .h2allpro{
+        padding-bottom: 25px;
+    }
+    
+    .quality-para {
+        font-size: 15px;
+        padding-bottom: 0
+    }
+    
+    .quality-table {
+        padding-top: 30px;
+    }
+    
+    .lab-img{
+        padding-top: 0;
+    }
+    
+    .h2,.conv, .conversion, .purchase{
+        padding-top: 40px
+    }
+    
+    .len {
+        font-size: 15px;
+    }
+    
+    .ground-cham{
+        padding-top: 10px;
+        font-size: 18px;
+    }
+
+}
+
+
+@media only screen and (max-width: 372px){
+    .logo{
+        height: 90px;
+        margin-top: 0;
+        margin-left: -5%;
+    }
+
+    
+    .btn-products:link,
+    .btn-products:visited {
+        margin-left: 80px;
+    }
+    
+    .btn-as:link,
+    .btn-as:visited {
+        margin-left: 10px;
+    }
+    
+        
+
+}
+    
+    
+
+
+
