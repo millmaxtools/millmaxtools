@@ -68,8 +68,8 @@ section {
 /*====================================================================================================================================================*/
 
 header{
-    background-image: -webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.7)),to(rgba(0, 0, 0, 0.6))), url(img/backtest.gif);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url(img/backtest.gif);
+    background-image: -webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.7)),to(rgba(0, 0, 0, 0.6))), url(img/background.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url(img/background.jpg);
     background-repeat: no-repeat;
     -o-background-size: cover;
     -moz-background-size: cover;
