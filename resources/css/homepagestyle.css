@@ -296,8 +296,8 @@ h3 {
 }
 
 
-.about-us {
-    margin-bottom: 85px;
+.video {
+    margin-bottom: 100px;
 }
 
 .list_link:link,
@@ -448,7 +448,7 @@ h3 {
 }
 
 .photo img {
-    opacity: 0.7;
+    opacity: 0.75;
     width: 100%;
     height: auto;
     -webkit-transform: scale(1.03);
